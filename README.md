@@ -1,4 +1,5 @@
 ### Hi there 👋
+I have most of my projects based on Android 
 - 🌱 I’m currently learning Data Structures and Algorithm
 
 <!--
