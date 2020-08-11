@@ -1,7 +1,7 @@
 ### Hi there 👋
 I have most of my projects based on Android 
 - 🌱 I’m currently learning Data Structures and Algorithm
-- 📫 How to reach me: deveshbhatla.github.io
+- 📫 How to reach me: <http://www.deveshbhatla.github.io>
 
 <!--
 **Deveshbhatla/Deveshbhatla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
