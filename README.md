@@ -5,7 +5,8 @@
   </br>
   </br>
 I have most of my projects based on Android 
-- 🌱 I’m currently learning Data Structures and Algorithm
+
+- 🌱 I’m currently learning Data Structures and Algorithm;
 - 📫 How to reach me: <https://deveshbhatla.github.io/>
 
 <!--
