@@ -2,6 +2,10 @@
 <a href="https://www.linkedin.com/in/devesh-bhatla-14810697/">
   <img align="left" alt="Victor's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
+  <a href="https://twitter.com/BhatlaDevesh">
+  <img align="left" alt="Victor Williams | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
   </br>
   </br>
 I have most of my projects based on Android 
