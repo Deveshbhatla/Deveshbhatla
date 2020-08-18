@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Devesh
 <a href="https://www.linkedin.com/in/devesh-bhatla-14810697/">
   <img align="left" alt="Victor's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  </br>
 I have most of my projects based on Android 
 - 🌱 I’m currently learning Data Structures and Algorithm
 - 📫 How to reach me: <https://deveshbhatla.github.io/>
