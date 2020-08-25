@@ -10,7 +10,7 @@
   </br>
 I have most of my projects based on Android 
 
-- 🌱 I’m currently learning Data Structures and Algorithm
+- 🌱 I’m currently learning Data Structures and Algorithms
 - 📫 How to reach me: <https://deveshbhatla.github.io/>
 - 💬 Ask me about anything
 
