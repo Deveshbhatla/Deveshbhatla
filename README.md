@@ -7,6 +7,9 @@ I have most of my projects based on Android
 <a href="https://www.linkedin.com/in/deveshbhatla/">
         <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn Devesh">
   </a>
+  <a href="mailto:deveshbhatla952@gmail.com">
+        <img src="https://img.shields.io/badge/gmail--_.svg?style=social&logo=gmail" alt="Gmail Devesh">
+    </a>
 <!--
 **Deveshbhatla/Deveshbhatla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
