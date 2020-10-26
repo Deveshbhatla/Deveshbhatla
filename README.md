@@ -4,7 +4,7 @@ I have most of my projects based on Android
 - 📫 How to reach me: <https://deveshbhatla.github.io/>
 - 💬 Ask me about anything
 - 📫 How to reach me: 
--<a href="https://www.linkedin.com/in/deveshbhatla/">
+<a href="https://www.linkedin.com/in/deveshbhatla/">
         <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn Devesh">
   </a>
   <a href="mailto:deveshbhatla952@gmail.com">
