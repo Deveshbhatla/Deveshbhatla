@@ -12,6 +12,12 @@ I have most of my projects based on Android
     
 - My Website: <a href= "https://deveshbhatla.github.io/">https://deveshbhatla.github.io/</a>
 
+<br />  
+
+<!--![Devesh's github stats](https://github-readme-stats.vercel.app/api?username=Deveshbhatla&hide=stars&show_icons=true&count_private=true&include_all_commits=true)-->
+![Devesh's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Deveshbhatla&layout=compact&card_width=300&card_height=150)
+
+<br />
 <!--
 **Deveshbhatla/Deveshbhatla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
