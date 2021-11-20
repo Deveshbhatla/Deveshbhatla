@@ -12,10 +12,12 @@ I have most of my projects based on Android
     
 - My Website: <a href= "https://deveshbhatla.github.io/">https://deveshbhatla.github.io/</a>
 
-<br />  
+<br/>  
 
-<!--![Devesh's github stats](https://github-readme-stats.vercel.app/api?username=Deveshbhatla&hide=stars&show_icons=true&count_private=true&include_all_commits=true)-->
-![Devesh's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Deveshbhatla&layout=compact&card_width=300&card_height=150)
+### Profile Statistics: <p align="center">   
+![Devesh's github stats](https://github-readme-stats.vercel.app/api?username=Deveshbhatla&theme=tokyonight&hide=stars&show_icons=true&count_private=true&include_all_commits=true)
+![Devesh's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Deveshbhatla&layout=compact&card_width=250&card_height=180&theme=tokyonight)
+</p>
 
 <br />
 <!--
