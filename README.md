@@ -12,7 +12,6 @@ I have most of my projects based on Android
     
 - My Website: <a href= "https://deveshbhatla.github.io/">https://deveshbhatla.github.io/</a>
 
-<br/>  
 
 ### Languages and Frameworks
 
@@ -40,7 +39,7 @@ I have most of my projects based on Android
 ![Devesh's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Deveshbhatla&layout=compact&card_width=250&card_height=180&theme=tokyonight)
 </p>
 
-<br />
+
 <!--
 **Deveshbhatla/Deveshbhatla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
