@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Devesh
-I have most of my projects based on Android 
+I have most of my projects based on Application Development 
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 💬 Ask me about anything
 - 📫 How to reach me: 
@@ -29,9 +29,10 @@ I have most of my projects based on Android
 ### Tools
 <p>
 <img height="38px" width="38px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img height="38px" width="38px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
+<img height="38px" width="38px" src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
 <img height="38px" width="38px" src="https://img.icons8.com/fluency/48/000000/unity.png"/>        
-<img height="38px" width="38px" src="https://img.icons8.com/color/48/000000/unreal-engine.png"/>       
+<img height="38px" width="38px" src="https://img.icons8.com/color/48/000000/unreal-engine.png"/>
+<img img height="38px" width="38px" src="https://img.icons8.com/color/48/null/android-studio--v2.png"/>
 </p>
         
 ### Profile Statistics: <p align="center">   
