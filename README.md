@@ -19,6 +19,7 @@ I have most of my projects based on Android
 <img height="40px" width="40px"  src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/>
 <img height="40px" width="40px"  src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 <img height="45px" width="45px" src="https://img.icons8.com/color/100/000000/java-coffee-cup-logo.png"/>
+<img height="39px" width="37px" src="https://img.icons8.com/fluency/48/null/python.png"/>
 <img height="38px" width="38px" src="https://img.icons8.com/color/100/000000/html-5.png"/>
 <img height="38px" width="38px" src="https://img.icons8.com/color/100/000000/css3.png"/>
 <img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/bootstrap.png"/>
