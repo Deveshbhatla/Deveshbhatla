@@ -15,8 +15,10 @@ I have most of my projects based on Application Development
 <img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/c-plus-plus-logo.png"/>
 <img height="40px" width="40px"  src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/>
 <img height="40px" width="40px"  src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+<img width="39px" height="39px" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/>
 <img height="45px" width="45px" src="https://img.icons8.com/color/100/000000/java-coffee-cup-logo.png"/>
 <img height="39px" width="37px" src="https://img.icons8.com/fluency/48/null/python.png"/>
+<img width="40px" height="40px" src="https://img.icons8.com/color/48/tensorflow.png" alt="tensorflow"/>
 <img height="38px" width="38px" src="https://img.icons8.com/color/100/000000/html-5.png"/>
 <img height="38px" width="38px" src="https://img.icons8.com/color/100/000000/css3.png"/>
 <img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/bootstrap.png"/>
