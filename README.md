@@ -11,19 +11,17 @@ I have most of my projects based on Application Development
 
 ### Languages and Frameworks
 
-<p align="left"> 
-<img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/c-plus-plus-logo.png"/>
-<img height="40px" width="40px"  src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/>
-<img height="40px" width="40px"  src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-<img width="39px" height="39px" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/>
-<img height="45px" width="45px" src="https://img.icons8.com/color/100/000000/java-coffee-cup-logo.png"/>
-<img height="39px" width="37px" src="https://img.icons8.com/fluency/48/null/python.png"/>
-<img width="40px" height="40px" src="https://img.icons8.com/color/48/tensorflow.png" alt="tensorflow"/>
-<img height="38px" width="38px" src="https://img.icons8.com/color/100/000000/html-5.png"/>
-<img height="38px" width="38px" src="https://img.icons8.com/color/100/000000/css3.png"/>
-<img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/bootstrap.png"/>
-<img height="39px" width="37px" src="https://img.icons8.com/color/96/000000/javascript.png"/>
-</p>
+<code><img height="25" alt="C++" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>
+<code><img height="25" alt="C" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
+<code><img height="25" alt="C#" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"></code>
+<code><img height="25" alt="Kotlin" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/kotlin/kotlin.png"></code>
+<code><img height="25" alt="Java" src="https://img.icons8.com/color/100/000000/java-coffee-cup-logo.png"></code>
+<code><img height="25" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="25" alt="TensorFlow" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="25" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="25" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="25" alt="BootStrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="25" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 ### Tools
 <p>
