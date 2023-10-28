@@ -1,13 +1,13 @@
 ### Hi there 👋, I'm Devesh
+<p align="center">
+  <a href="https://deveshbhatla.github.io/"><img height="32px" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&color=1a1b27"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/deveshbhatla/"><img height="32px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=1a1b27"/></a>
+</p>
+
 I have most of my projects based on Application Development 
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 💬 Ask me about anything
-- 📫 How to reach me: 
-<a href="https://www.linkedin.com/in/deveshbhatla/">
-   <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn Devesh">
-</a>
-
-- My Website: <a href= "https://deveshbhatla.github.io/">https://deveshbhatla.github.io/</a>
 
 ### Languages and Frameworks
 
@@ -32,11 +32,23 @@ I have most of my projects based on Application Development
 <img img height="38px" width="38px" src="https://img.icons8.com/color/48/null/android-studio--v2.png"/>
 </p>
         
-### Profile Statistics: <p align="center">   
+### Profile Statistics: 
+
+| <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=deveshbhatla&theme=rising-sun&hide_border=true" alt="Devesh's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshbhatla&layout=compact&theme=transparent&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<!---
+<p align="center">
+   
 ![Devesh's github stats](https://github-readme-stats.vercel.app/api?username=Deveshbhatla&theme=tokyonight&hide=stars&show_icons=true&count_private=true&include_all_commits=true)
 ![Devesh's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Deveshbhatla&layout=compact&card_width=250&card_height=180&theme=tokyonight)
 </p>
 
+
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=deveshbhatla&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Devesh's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshbhatla&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+-->
 
 <!--
 **Deveshbhatla/Deveshbhatla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
