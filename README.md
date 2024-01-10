@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Devesh
 <p align="center">
-  <a href="https://deveshbhatla.github.io/"><img height="32px" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&color=1a1b27"/></a>
+  <a href="https://www.deveshbhatla.com/"><img height="32px" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&color=1a1b27"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/deveshbhatla/"><img height="32px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=1a1b27"/></a>
 </p>
